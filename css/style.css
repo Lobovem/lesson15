@@ -1,0 +1,11 @@
+.figyra {
+  fill: yellow;
+  stroke-width: 5px;
+  stroke: black;
+}
+
+.figyra:hover {
+  fill: crimson;
+  transition: 1s;
+  stroke: #e7e30e;
+}
